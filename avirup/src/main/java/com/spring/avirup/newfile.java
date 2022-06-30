@@ -1,6 +1,6 @@
 package com.spring.avirup;
 
-public interface vechile {
+public interface newfile{
 	
 	void drive();
 
